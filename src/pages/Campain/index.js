@@ -42,9 +42,6 @@ function Campain() {
           <Link to="/">
             <span>CAMPANHA DE DEZEMBRO</span>
           </Link>
-          <div>
-            <Link to="/register">Cadastrar nova venda</Link>
-          </div>
         </header>
       </HeaderContainer>
       <Container>
